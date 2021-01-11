@@ -71,23 +71,32 @@ These are my preferred tools, frameworks, languages, etc. (can you tell I’m a 
     <a href="https://www.reactjs.org/">
         <img src="https://img.shields.io/badge/Frontend%20framework-React-%230078D7?logo=react&logoColor=white">
     <a>
+    <a href="https://www.nextjs.org/">
+        <img src="https://img.shields.io/badge/New%20project%20bootstrapper-create--next--app%20(Next.js)-%230078D7?logo=next.js&logoColor=white">
+    <a>
     <a href="https://www.typescriptlang.org/">
         <img src="https://img.shields.io/badge/Frontend%20language-TypeScript-%230078D7?logo=typescript&logoColor=white">
     <a>
     <a href="https://redux.js.org/">
         <img src="https://img.shields.io/badge/State%20management-Redux-%230078D7?logo=redux&logoColor=white">
     <a>
+    <a href="https://www.yarnpkg.com/">
+        <img src="https://img.shields.io/badge/Frontend%20package%20manager-Yarn-%230078D7?logo=yarn&logoColor=white">
+    <a>
     <a href="https://dotnet.microsoft.com/">
-        <img src="https://img.shields.io/badge/Backend%20framework-.NET%20Core-%230078D7?logo=.net&logoColor=white">
+        <img src="https://img.shields.io/badge/Backend%20framework-ASP.NET%20(.NET%205)-%230078D7?logo=.net&logoColor=white">
     <a>
     <a href="https://docs.microsoft.com/dotnet/csharp">
         <img src="https://img.shields.io/badge/Backend%20language-C%23-%230078D7?logo=c-sharp&logoColor=white">
+    <a>
+    <a href="https://www.nuget.org/">
+        <img src="https://img.shields.io/badge/Backend%20package%20manager-NuGet-%230078D7?logo=nuget&logoColor=white">
     <a>
     <a href="https://www.mongodb.com/">
         <img src="https://img.shields.io/badge/DBMS-MongoDB-%230078D7?logo=mongodb&logoColor=white">
     <a>
     <a href="https://azure.microsoft.com/">
-        <img src="https://img.shields.io/badge/Cloud%20platform-Microsoft%20Azure-%230078D7?logo=microsoft-azure&logoColor=white">
+        <img src="https://img.shields.io/badge/Cloud%20platform-GCP%20(Google)-%230078D7?logo=google-cloud&logoColor=white">
     <a>
     <a href="https://www.amd.com/">
         <img src="https://img.shields.io/badge/Intel%20or%20AMD%3F-Team%20Red%20all%20the%20way-%230078D7?logo=amd&logoColor=white">
