@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/andidavies92/andidavies92/master/wave.gif" alt="Animated Hand Waving" height="20px">
 </h1>
 
-How’s it going? Hope you’re having a great day 😊 My name’s Andi, I’m a full-stack engineer (starting to specialise in the frontend) from [Chepstow](https://en.wikipedia.com/wiki/Chepstow) in [South Wales](https://en.wikipedia.com/wiki/South_Wales), now living in [Bristol](https://en.wikipedia.com/wiki/Bristol) (in the UK). My biggest passion in coding is creating the best [user experience](https://en.wikipedia.com/wiki/User_experience) possible – which is why I tend to lean towards the frontend – and am always working on random [personal projects](#current-active-projects-) outside of my day job. I’d like to start contributing more to the open source community too, aside from my own projects, as my biggest bragging right to date is a [PR](https://www.github.com/facebook/react/pull/11599) accepted to the main [React](https://www.github.com/facebook/react) repo… It’s only a config change, but I’m still counting it, damnit! 😂
+How’s it going? Hope you’re having a great day 😊 My name’s Andi, I’m a senior full-stack engineer, specialising in the frontend, from [Chepstow](https://en.wikipedia.com/wiki/Chepstow) in [South Wales](https://en.wikipedia.com/wiki/South_Wales). My biggest passion in coding is creating the best [user experience](https://en.wikipedia.com/wiki/User_experience) possible – which is why I tend to lean towards the frontend – and am always working on random [personal projects](#current-active-projects-) outside of my day job. I’d like to start contributing more to the open source community too, aside from my own projects, as my biggest bragging right to date is a [PR](https://www.github.com/facebook/react/pull/11599) accepted to the main [React](https://www.github.com/facebook/react) repo… It’s only a config change, but I’m still counting it, damnit! 😂
 
 ## Current active projects 👩‍💻
 
@@ -28,7 +28,7 @@ How’s it going? Hope you’re having a great day 😊 My name’s Andi, I’m 
     🕹&nbsp;Retro&nbsp;gaming,&nbsp;collecting&nbsp;and&nbsp;modding
     🎥&nbsp;Amateur&nbsp;videography
     ⛷&nbsp;Ski&nbsp;racing&nbsp;and&nbsp;snowboarding
-    ⚽&nbsp;Playing&nbsp;football&nbsp;(soccer)&nbsp;w/&nbsp;my&nbsp;womxn’s&nbsp;team
+    ⚽&nbsp;Playing&nbsp;football&nbsp;(soccer)&nbsp;w/&nbsp;my&nbsp;women’s&nbsp;team
     🐕&nbsp;Animal&nbsp;lover&nbsp;and&nbsp;aspiring&nbsp;vegan
     🏳‍🌈&nbsp;LGBTQ+&nbsp;rights&nbsp;advocacy
 </p>
@@ -41,14 +41,14 @@ These are my preferred tools, frameworks, languages, etc. (can you tell I’m a 
     <a href="https://www.dell.com/en-uk/shop/laptops/xps-17-laptop/spd/xps-17-9700-laptop">
         <img src="https://img.shields.io/badge/Laptop-Dell%20XPS%2017%209700-%230078D7?logo=dell&logoColor=white">
     <a>
-    <a href="https://www.oneplus.com/oneplus-8-pro">
-        <img src="https://img.shields.io/badge/Phone-OnePlus%208%20Pro-%230078D7?logo=oneplus&logoColor=white">
+    <a href="https://www.samsung.com/uk/smartphones/galaxy-s21-5g">
+        <img src="https://img.shields.io/badge/Phone-Samsung%20Galaxy%20S21%20Ultra-%230078D7?logo=samsung&logoColor=white">
     <a>
-    <a href="https://www.microsoft.com/windows">
-        <img src="https://img.shields.io/badge/Desktop%20OS-Windows%2010-%230078D7?logo=windows&logoColor=white">
+    <a href="https://www.microsoft.com/windows/windows-11">
+        <img src="https://img.shields.io/badge/Desktop%20OS-Windows%2011-%230078D7?logo=windows&logoColor=white">
     <a>
-    <a href="https://www.oneplus.com/oxygenos">
-        <img src="https://img.shields.io/badge/Mobile%20OS-OxygenOS%20(Android)-%230078D7?logo=android&logoColor=white">
+    <a href="https://www.samsung.com/uk/apps/one-ui">
+        <img src="https://img.shields.io/badge/Mobile%20OS-One%20UI%20(Android)-%230078D7?logo=android&logoColor=white">
     <a>
     <a href="https://www.microsoft.com/edge">
         <img src="https://img.shields.io/badge/Browser-Microsoft%20Edge-%230078D7?logo=microsoft-edge&logoColor=white">
@@ -112,6 +112,6 @@ These are my preferred tools, frameworks, languages, etc. (can you tell I’m a 
 ## Contact 📧
 
 <div align="center">
-    <p>Probably the best way to contact me would be via my LinkedIn:</p>
-    <a href="https://www.linkedin.com/in/andidavies92">https://www.linkedin.com/in/andidavies92</a>
+    <p>The best way to contact me is via my LinkedIn:</p>
+    <a href="https://www.linkedin.com/in/andiemmadavies">https://www.linkedin.com/in/andiemmadavies</a>
 </div>
