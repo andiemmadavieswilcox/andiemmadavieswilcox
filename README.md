@@ -2,7 +2,7 @@
 
 <h1>
     Hey there!
-    <img src="https://raw.githubusercontent.com/andiemmadavieswilcox/andiemmadavieswilcox/master/wave.gif" alt="Animated hand emoji waving" height="20px">
+    <img src="https://raw.githubusercontent.com/andiemmadavieswilcox/andiemmadavieswilcox/master/wave.gif" alt="Animated hand emoji waving" width="20px" height="20px">
 </h1>
 
 How’s it going? Hope you’re having a great day 😊 My name’s Andi, I’m a senior full-stack engineer, specialising in the frontend, from [Chepstow](https://en.wikipedia.com/wiki/Chepstow) in [South Wales](https://en.wikipedia.com/wiki/South_Wales). My biggest passion in coding is creating the best [user experience](https://en.wikipedia.com/wiki/User_experience) possible — which is why I tend to lean towards the frontend — and am always working on random [personal projects](#current-active-projects-) outside of my day job. I’d like to start contributing more to the open source community too, aside from my own projects, as my biggest bragging right to date is a [PR](https://www.github.com/facebook/react/pull/11599) accepted to the main [React](https://www.github.com/facebook/react) repo… It’s only a config change, but I’m still counting it, damnit! 😂
